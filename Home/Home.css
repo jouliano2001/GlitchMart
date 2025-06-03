@@ -1,0 +1,35 @@
+/* .cardHold {
+    border-radius: 50%;
+} */
+
+.col Img {
+    margin-left: 250px;
+    /* width: 50%; */
+}
+
+.location h2 {
+    text-decoration: underline;
+    /* padding: 20px; */
+}
+
+.footer {
+    background-color: #03011e;
+}
+
+.footer-content h2 {
+    color: #fff;
+}
+
+.footer-content h5,
+.footer-content p,
+.footer-links a {
+    color: #fff;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.footer hr {
+    background-color: #fff;
+}
